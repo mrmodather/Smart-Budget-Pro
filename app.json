@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "ميزانيتي الاحترافية",
+    "slug": "smart-budget-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0A192F",
+    "primaryColor": "#64ffda",
+    "android": {
+      "package": "com.yourname.smartbudgetpro",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A192F"
+      }
+    }
+  }
+}
